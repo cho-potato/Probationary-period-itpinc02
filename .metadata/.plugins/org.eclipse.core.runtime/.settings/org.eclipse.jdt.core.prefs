@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=C\:/dev/eclipse-jee-kepler-SR2-win32/eclipse/plugins/org.aspectj.runtime_1.8.1.20140523140000.jar
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/dev/eclipse-jee-kepler-SR2-win32/eclipse
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/dev/jdk1.8.0_65/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/dev/jdk1.8.0_65/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/dev/eclipse-jee-kepler-SR2-win32/eclipse/plugins/org.junit_4.11.0.v201303080030/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/dev/apache-maven-3.3.9-bin/apache-maven-3.3.9/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

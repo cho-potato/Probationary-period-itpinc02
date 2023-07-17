@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/first/!svn/ver/1/src/main/resources/config/spring
+END
+context-common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/first/!svn/ver/1/src/main/resources/config/spring/context-common.xml
+END
+context-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/first/!svn/ver/1/src/main/resources/config/spring/context-mapper.xml
+END
+context-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/first/!svn/ver/1/src/main/resources/config/spring/context-datasource.xml
+END
+context-aspect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/first/!svn/ver/1/src/main/resources/config/spring/context-aspect.xml
+END

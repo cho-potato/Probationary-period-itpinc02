@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="1">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8080/first/WEB-INF/jsp/sample/sampleBoardList.jsp|*|http\://localhost\:8080/first/WEB-INF/jsp/sample/boardList.jsp|*|file\:/C\:/dev/workspace/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1450077147678/index.html|*|

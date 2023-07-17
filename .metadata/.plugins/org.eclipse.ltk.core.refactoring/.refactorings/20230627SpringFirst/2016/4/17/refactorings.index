@@ -1,0 +1,24 @@
+1461222406233	Move compilation unit
+1461299846702	Rename resource 'boardWrite.jsp'
+1461299978315	Rename resource 'common.js'
+1461300795636	Rename type 'CommandMap'
+1461300818394	Rename type 'AbstractDAO'
+1461300847951	Rename type 'SampleController'
+1461300884429	Rename type 'SampleDAO'
+1461300909232	Rename type 'SampleService'
+1461300917229	Rename type 'SampleServiceImpl'
+1461301824843	Delete element
+1461301830114	Delete element
+1461301834499	Delete element
+1461301838717	Delete element
+1461301844154	Delete element
+1461302033273	Delete element
+1461302062208	Rename type 'SampleServiceImpl_1'
+1461302073319	Rename type 'SampleDAO_1'
+1461302079729	Rename type 'SampleController_1'
+1461302143598	Delete element
+1461302175260	Rename type 'CommandMap_1'
+1461302182694	Rename type 'AbstractDAO_1'
+1461302450445	Delete element
+1461302459654	Rename resource 'boardWrite_1.jsp'
+1461302483125	Rename resource 'common_1.js'

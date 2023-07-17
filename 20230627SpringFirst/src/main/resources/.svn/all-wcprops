@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/first/!svn/ver/1/src/main/resources
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/first/!svn/ver/1/src/main/resources/log4j.xml
+END
+rebel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/first/!svn/ver/1/src/main/resources/rebel.xml
+END

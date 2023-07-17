@@ -1,0 +1,77 @@
+10
+
+dir
+2
+https://desktop-o551cal/svn/first/src/main/webapp/WEB-INF
+https://desktop-o551cal/svn/first
+
+
+
+2023-06-30T08:18:19.033150Z
+2
+itpinc02
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+44438ead-dc9a-7c4e-86b3-fadd9e3b5686
+
+classes
+dir
+
+config
+dir
+
+include
+dir
+
+jsp
+dir
+
+views
+dir
+
+web.xml
+file
+
+
+
+
+2023-06-30T08:05:25.227000Z
+7dd54c63d3effb4f466784fef07deccc
+2023-06-30T07:50:32.444013Z
+1
+itpinc02
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1595
+

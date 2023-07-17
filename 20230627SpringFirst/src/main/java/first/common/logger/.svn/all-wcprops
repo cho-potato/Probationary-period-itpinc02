@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/first/!svn/ver/1/src/main/java/first/common/logger
+END
+LoggerAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/first/!svn/ver/1/src/main/java/first/common/logger/LoggerAspect.java
+END
+LoggerInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/first/!svn/ver/1/src/main/java/first/common/logger/LoggerInterceptor.java
+END

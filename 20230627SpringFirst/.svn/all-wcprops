@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/first/!svn/ver/3/
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/first/!svn/ver/1/pom.xml
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/first/!svn/ver/1/.springBeans
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/first/!svn/ver/1/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/first/!svn/ver/1/.classpath
+END
